@@ -5,8 +5,8 @@ This game has been fully developed by Xavier López as an assigment of the class
 
 ## Getting Started
 In this repository there are two java projects:
-	-Space Invaders
-	-Space Invaders2
+* Space Invaders
+* Space Invaders2
 
 The difference between those two projects is that the first is a java application, and the second is a java applet.
 
@@ -24,7 +24,7 @@ Once you execute the Space Invaders project (please note that Finestra.java is t
 
 To navigate trough the  menus use the arrows, and to select a menu use enter. Once in the menu, if you want to go back to the main page press enter again.
 
-Thats enough instructions for you to use the applet, I leave some screenshots here:
+Thats enough instructions to play the game, I leave some screenshots here:
 
 ![alt text](screenshots/p2.jpeg)
 ![alt text](screenshots/p3.jpeg)
@@ -39,7 +39,7 @@ Thats enough instructions for you to use the applet, I leave some screenshots he
 
 Please note that the menu "high scores" was meant to be using a server and a conection http to save the tom 10 highest scores from everyone who played this game. Sadly this is not implemented yet and it saves the highest score from the execution you are in.
 
-Please note that the menu "options" it is also to be developed in the future.
+Please note that the menu "options" is also to be developed in the future.
 
 Enjoy the game!
 
