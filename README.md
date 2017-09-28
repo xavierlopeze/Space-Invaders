@@ -20,22 +20,21 @@ Please note that "SpaceInvaders.zip" file is just a copy of the folder "Space In
 
 Once you execute the Space Invaders project (please note that Finestra.java is the main file) you should see
 
-![alt text](screenshots/p1.jpeg)
+![alt text](screenshots/p1.png)
 
 To navigate trough the  menus use the arrows, and to select a menu use enter. Once in the menu, if you want to go back to the main page press enter again.
 
 Thats enough instructions for you to use the applet, I leave some screenshots here:
 
-![alt text](screenshots/p1.png)
-![alt text](screenshots/p2.png)
-![alt text](screenshots/p3.png)
-![alt text](screenshots/p4.png)
-![alt text](screenshots/p5.png)
-![alt text](screenshots/p6.png)
-![alt text](screenshots/p7.png)
-![alt text](screenshots/p8.png)
-![alt text](screenshots/p9.png)
-![alt text](screenshots/p10.png)
+![alt text](screenshots/p2.jpg)
+![alt text](screenshots/p3.jpg)
+![alt text](screenshots/p4.jpg)
+![alt text](screenshots/p5.jpg)
+![alt text](screenshots/p6.jpg)
+![alt text](screenshots/p7.jpg)
+![alt text](screenshots/p8.jpg)
+![alt text](screenshots/p9.jpg)
+![alt text](screenshots/p10.jpg)
 
 
 Please note that the menu "high scores" was meant to be using a server and a conection http to save the tom 10 highest scores from everyone who played this game. Sadly this is not implemented yet and it saves the highest score from the execution you are in.
@@ -50,4 +49,5 @@ Special thanks to Vicenç Soler for his teachings.
 
 ## Author 
 Xavier López
-Contact: xavier.lopeze@gmail.com
+
+Contact:  xavier.lopeze@gmail.com
