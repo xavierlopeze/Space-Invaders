@@ -20,7 +20,7 @@ Please note that "SpaceInvaders.zip" file is just a copy of the folder "Space In
 
 Once you execute the Space Invaders project (please note that Finestra.java is the main file) you should see
 
-![alt text](screenshots/p1.png)
+![alt text](screenshots/p1.jpeg)
 
 To navigate trough the  menus use the arrows, and to select a menu use enter. Once in the menu, if you want to go back to the main page press enter again.
 
