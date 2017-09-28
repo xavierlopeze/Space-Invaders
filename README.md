@@ -26,6 +26,17 @@ To navigate trough the  menus use the arrows, and to select a menu use enter. On
 
 Thats enough instructions for you to use the applet, I leave some screenshots here:
 
+![alt text](screenshots/p1.png)
+![alt text](screenshots/p2.png)
+![alt text](screenshots/p3.png)
+![alt text](screenshots/p4.png)
+![alt text](screenshots/p5.png)
+![alt text](screenshots/p6.png)
+![alt text](screenshots/p7.png)
+![alt text](screenshots/p8.png)
+![alt text](screenshots/p9.png)
+![alt text](screenshots/p10.png)
+
 
 Please note that the menu "high scores" was meant to be using a server and a conection http to save the tom 10 highest scores from everyone who played this game. Sadly this is not implemented yet and it saves the highest score from the execution you are in.
 
