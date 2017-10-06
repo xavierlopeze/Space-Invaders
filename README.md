@@ -42,7 +42,7 @@ Please note that the menu "high scores" was meant to be using a server and a con
 
 Please note that the menu "options" is also to be developed in the future.
 
-Please note also that sometimes there is some but in the menu navigation. This is something to be fixed.
+Please also note that sometimes there is a bug in the menu navigation. This is something to be fixed.
 
 Enjoy the game!
 
